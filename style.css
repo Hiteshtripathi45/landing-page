@@ -95,3 +95,16 @@ button{
 
 
 }
+.section3{
+    padding: 200px 400px;
+    background-color: rgb(224, 224, 224);
+}
+.section3 h2{
+    text-align: end;
+}
+.section3 h1{
+    font-style: italic;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(122, 122, 122);
+}
