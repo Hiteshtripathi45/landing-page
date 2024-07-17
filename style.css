@@ -65,3 +65,33 @@ button{
     border: none;
     background-color: rgb(77, 150, 247);
 }
+.section2{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.section2 h1{
+    padding: 50px;
+}
+.boxes{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+
+}
+
+.box{
+    height: 175px;
+    width: 175px;
+    border:solid rgb(77, 150, 247) 4px;
+    border-radius: 10px;
+}
+.sub{
+    height: auto;
+    width: 175px;
+    font-style: oblique;
+    font-size: 13px;
+    gap: 5px;
+
+
+}
